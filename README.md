@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alireza Kavoosi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate M.Sc. Data Analytics Student </h3>
 
 - 🔭 I’m currently working on [Reinforcement Learning Strategies for Perishable Inventory Management](https://github.com/Alireza-Kavoosi/Reinforcement_Learning_for_Perishable_Inventory_Management)
 
