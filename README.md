@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Reinforcement Learning**
 
-- 💬 Ask me about **machine learning, mathematical statistics, operations research**
+- 💬 Ask me about **machine learning, mathematical statistics, and operations research**
 
 - 📫 How to reach me **RezaKavoosi@outlook.com**
 
